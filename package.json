@@ -9,7 +9,6 @@
     "android": "expo start --android",
     "ios": "expo start --ios",
     "web": "expo start --web",
-    "lint": "expo lint",
     "ox:lint": "oxlint",
     "ox:lint:fix": "oxlint --fix",
     "ox:format": "oxfmt",
@@ -45,8 +44,6 @@
   },
   "devDependencies": {
     "@types/react": "~19.1.0",
-    "eslint": "^9.25.0",
-    "eslint-config-expo": "~10.0.0",
     "husky": "^9.1.7",
     "lint-staged": "^16.2.7",
     "oxfmt": "^0.32.0",
