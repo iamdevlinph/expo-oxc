@@ -1,5 +1,5 @@
 {
-  "name": "expo-oxc",
+  "name": "expo-oxc-template",
   "version": "1.0.0",
   "private": true,
   "main": "expo-router/entry",
@@ -11,8 +11,8 @@
     "web": "expo start --web",
     "ox:lint": "oxlint",
     "ox:lint:fix": "oxlint --fix",
-    "ox:format": "oxfmt",
     "ox:format:check": "oxfmt --check",
+    "ox:format": "oxfmt",
     "prepare": "husky"
   },
   "dependencies": {

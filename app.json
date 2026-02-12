@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "expo-oxc",
-    "slug": "expo-oxc",
+    "name": "expo-oxc-template",
+    "slug": "expo-oxc-template",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
